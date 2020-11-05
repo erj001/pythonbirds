@@ -1,6 +1,6 @@
 #criação de classes
 class Pessoa:
-    def __init__(self, nome=None, idade=35):
+    def __init__(self, nome=None, idade=36):
         self.idade = idade
         self.nome = nome
     def cumprimentar(self):
