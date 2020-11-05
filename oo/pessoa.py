@@ -1,3 +1,4 @@
+#criação de classes
 class Pessoa:
     def __init__(self, nome=None, idade=35):
         self.idade = idade
